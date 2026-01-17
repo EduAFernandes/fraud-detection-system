@@ -1,0 +1,30 @@
+# AI & ML
+crewai>=1.0.0
+openai>=1.13.0
+scikit-learn>=1.4.0
+
+# Agno Framework (New - production-grade agents)
+agno>=2.3.21
+anthropic>=0.75.0
+asyncio-redis>=0.16.0
+
+# Kafka
+confluent-kafka>=2.3.0
+
+# Database
+psycopg2-binary>=2.9.9
+pyspark>=3.4.0
+
+# Redis
+redis>=5.0.0
+
+# Qdrant & Embeddings
+qdrant-client>=1.7.0
+sentence-transformers>=2.3.0
+
+# Langfuse (Observability)
+langfuse>=2.19.0
+
+# Utilities
+python-dotenv>=1.0.0
+numpy>=1.26.0
